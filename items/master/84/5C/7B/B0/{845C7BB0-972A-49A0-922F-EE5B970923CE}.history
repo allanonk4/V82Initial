@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{845C7BB0-972A-49A0-922F-EE5B970923CE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:02:42.9850033Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "GoalViewer",
+    "itemPath": "/sitecore/layout/Sublayouts/ExperienceExplorer/GoalViewer",
+    "template": "Sublayout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

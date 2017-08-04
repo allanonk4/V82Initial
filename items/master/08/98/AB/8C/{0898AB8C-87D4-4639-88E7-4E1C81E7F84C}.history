@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{0898AB8C-87D4-4639-88E7-4E1C81E7F84C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:25.0785522Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Latest Failures",
+    "itemPath": "/sitecore/system/Settings/Analytics/Reports/Reports/Site Health/Latest Failures",
+    "template": "Report",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{AD2693B0-D164-474E-B736-4D30A43BCF33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:17.3915385Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Solomon Islands",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Solomon Islands",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

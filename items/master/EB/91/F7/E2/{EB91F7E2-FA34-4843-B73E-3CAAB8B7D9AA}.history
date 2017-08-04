@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{EB91F7E2-FA34-4843-B73E-3CAAB8B7D9AA}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:12.3623198Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Ecuador",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Ecuador",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

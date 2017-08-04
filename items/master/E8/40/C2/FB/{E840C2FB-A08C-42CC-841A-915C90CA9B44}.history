@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{E840C2FB-A08C-42CC-841A-915C90CA9B44}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:02:45.0975362Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Thomas 128x128",
+    "itemPath": "/sitecore/media library/Experience Explorer/Presets/Thomas 128x128",
+    "template": "Jpeg",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

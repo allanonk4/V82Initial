@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{4D151B8B-BD5F-4479-A35F-EE740F6387E8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:45.4944043Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Log Message",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/System/Log Message",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

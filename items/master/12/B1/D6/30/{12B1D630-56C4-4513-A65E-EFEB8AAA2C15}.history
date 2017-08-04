@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12B1D630-56C4-4513-A65E-EFEB8AAA2C15}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:08.0831848Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Post Removed",
+    "itemPath": "/sitecore/system/Workflows/Social Marketer Message Workflow/Post Removed",
+    "template": "State",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

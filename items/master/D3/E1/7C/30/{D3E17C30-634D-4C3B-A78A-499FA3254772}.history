@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3E17C30-634D-4C3B-A78A-499FA3254772}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:11.6429969Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Central African Republic",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Central African Republic",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

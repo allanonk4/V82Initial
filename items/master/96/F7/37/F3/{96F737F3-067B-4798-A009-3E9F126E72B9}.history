@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{96F737F3-067B-4798-A009-3E9F126E72B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:21.1617034Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "All",
+    "itemPath": "/sitecore/templates/System/Experience Analytics/Branches/Dimension/$name/All",
+    "template": "Segment",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

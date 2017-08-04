@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{81511CF3-B258-46C7-89D7-9193E8D0FF98}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:02:55.2919977Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Facebook",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Campaigns/Social/Facebook",
+    "template": "Campaign Category",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

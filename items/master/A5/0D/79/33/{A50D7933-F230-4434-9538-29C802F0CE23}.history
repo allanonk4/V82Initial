@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{A50D7933-F230-4434-9538-29C802F0CE23}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:20.6338515Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Fatal Error",
+    "itemPath": "/sitecore/templates/System/Workflow/Validation Action/Data/Fatal Error",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

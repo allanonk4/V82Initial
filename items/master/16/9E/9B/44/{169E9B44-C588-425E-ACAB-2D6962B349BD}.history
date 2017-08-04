@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{169E9B44-C588-425E-ACAB-2D6962B349BD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:10.7150306Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Austria",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Austria",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

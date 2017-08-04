@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F13CE61A-B9F1-4573-8EC8-08CD14410BAF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:16.9796507Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Channel type",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Channel/Channel type",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

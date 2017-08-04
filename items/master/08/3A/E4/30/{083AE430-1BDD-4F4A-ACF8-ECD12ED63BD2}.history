@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{083AE430-1BDD-4F4A-ACF8-ECD12ED63BD2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:33.1023436Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Macros",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Macros",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

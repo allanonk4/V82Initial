@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{12B6D58C-9CC4-4F60-9FD3-A027986FFCA4}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:17.7239940Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Sri Lanka",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Sri Lanka",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

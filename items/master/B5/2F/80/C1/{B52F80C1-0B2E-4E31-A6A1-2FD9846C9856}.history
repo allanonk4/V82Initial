@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{B52F80C1-0B2E-4E31-A6A1-2FD9846C9856}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:15.3198560Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Mongolia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Mongolia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{5F5FC9A5-7F4B-474B-A0AD-D65C5B0E6566}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:31.3331117Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Write Test Statistics",
+    "itemPath": "/sitecore/system/Settings/Content Testing/Report Queries/Write Test Statistics",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

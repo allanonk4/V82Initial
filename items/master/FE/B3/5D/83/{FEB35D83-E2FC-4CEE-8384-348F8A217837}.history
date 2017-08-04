@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{FEB35D83-E2FC-4CEE-8384-348F8A217837}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:46.3849176Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Set Validation Result",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Validation/Set Validation Result",
+    "template": "Action",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{51929FC9-6D0D-443C-B944-68FD0038B12A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:29.1135275Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Content Testing/Multivariate Test Variable/__Standard Values",
+    "template": "Multivariate Test Variable",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

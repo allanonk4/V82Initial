@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{161D7248-FED4-440C-845C-527EB90ADA5F}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:12.3915578Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Twitter Account",
+    "itemPath": "/sitecore/templates/Branches/System/Social/Twitter Account",
+    "template": "Command Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

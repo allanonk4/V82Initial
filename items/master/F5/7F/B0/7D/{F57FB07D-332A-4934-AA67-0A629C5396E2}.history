@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F57FB07D-332A-4934-AA67-0A629C5396E2}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:52.0942215Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Docx",
+    "itemPath": "/sitecore/templates/System/Media/Versioned/Docx",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

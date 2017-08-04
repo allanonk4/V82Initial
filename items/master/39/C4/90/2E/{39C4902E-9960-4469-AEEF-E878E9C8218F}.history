@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{39C4902E-9960-4469-AEEF-E878E9C8218F}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:14.0416422Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Hidden",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Hidden",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

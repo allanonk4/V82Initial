@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{F03DED1F-B02B-49A1-B4C0-793C6F092CFD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:08.9666042Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Defined",
+    "itemPath": "/sitecore/templates/Branches/User Defined",
+    "template": "Branch Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

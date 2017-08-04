@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{92FCD8A1-4E1B-4F43-A555-9441D40C86DE}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:11.4628982Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Cambodia",
+    "itemPath": "/sitecore/system/Settings/Analytics/Lookups/Countries/Cambodia",
+    "template": "Country",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

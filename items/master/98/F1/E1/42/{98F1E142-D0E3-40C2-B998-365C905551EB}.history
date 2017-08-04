@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{98F1E142-D0E3-40C2-B998-365C905551EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:22.3391179Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Top Traffic Sources",
+    "itemPath": "/sitecore/system/Settings/Analytics/Report Queries/Top Traffic Sources",
+    "template": "ReportQuery",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

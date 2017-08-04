@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C72C238F-018E-469E-9440-3EDD7420A8C8}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:02:41.9888308Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ExperienceEditor",
+    "itemPath": "/sitecore/layout/Layouts/System/FXM/ExperienceEditor",
+    "template": "Layout",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

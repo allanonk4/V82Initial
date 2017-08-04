@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{65B60C8C-D114-49E0-A897-1F64DAA7409E}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:00.1163182Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Click",
+    "itemPath": "/sitecore/templates/System/Ribbon/Large Combo Button/Data/Click",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

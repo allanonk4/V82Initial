@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{DFCDB420-74F0-4121-A128-29872F7C6E52}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:16.9013386Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/templates/System/Analytics/Marketing Taxonomy/Venue/Venue type/__Standard Values",
+    "template": "Venue type",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

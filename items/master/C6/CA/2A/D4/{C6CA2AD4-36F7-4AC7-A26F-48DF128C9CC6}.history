@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C6CA2AD4-36F7-4AC7-A26F-48DF128C9CC6}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:44.0697905Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "User Profile Not Empty",
+    "itemPath": "/sitecore/system/Settings/Rules/Definitions/Elements/Security/User Profile Not Empty",
+    "template": "Condition",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

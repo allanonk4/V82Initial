@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{055634EF-74F9-4B13-A282-F1D1BBB4C0CF}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:01.6065664Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Predefined Rules",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Predefined Rules",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

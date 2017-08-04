@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{631318AB-F31D-4034-8472-3D46B22238F3}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:01.8260759Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Icon",
+    "itemPath": "/sitecore/templates/System/Ribbon/Small Drop Down Box/Data/Icon",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

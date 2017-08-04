@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{C1FF011E-B02A-44E3-8444-9FC89CFC28CE}",
+    "version": 2,
+    "language": "en",
+    "timestamp": "2017-08-04T23:04:00.8942567Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Created",
+    "itemPath": "/sitecore/system/Settings/Subitems Sorting/Created",
+    "template": "Child Sorting",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{44EAE6A0-1963-478C-80D3-C44FD3D8DF70}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:02.1113009Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Visitor Is Human",
+    "itemPath": "/sitecore/system/Marketing Control Panel/Personalization/Rules/Persona/Visitor Is Human",
+    "template": "Conditional Rendering Rule",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

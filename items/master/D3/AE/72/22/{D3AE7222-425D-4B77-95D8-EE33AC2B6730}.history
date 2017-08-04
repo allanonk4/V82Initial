@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Snapshot",
+    "database": "master",
+    "itemId": "{D3AE7222-425D-4B77-95D8-EE33AC2B6730}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:05:13.8795873Z",
+    "label": "Snapshot - initial2",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Context Menu",
+    "itemPath": "/sitecore/templates/System/Templates/Sections/Appearance/Appearance/__Context Menu",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
