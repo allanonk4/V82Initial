@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f0c4e15c-430c-4c92-af9d-35e4efffa14f",
+    "database": "master",
+    "isFull": true,
+    "snapshotName": "initial",
+    "snapshotRoot": "/sitecore",
+    "created": "2017-08-04T22:58:28.9270688Z",
+    "lastDeployed": "0001-01-01T00:00:00",
+    "lastRollback": "0001-01-01T00:00:00"
+  }
+]
