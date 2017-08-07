@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{77A6FBB3-7C7B-4044-9682-5E47C5448059}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2017-08-07T19:59:08.0711557Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultItemTreeView",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended/VaultItemTreeView",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
