@@ -2,8 +2,6 @@
   "itemName": "ETE Action Column",
   "templateId": "{23B8F26C-0957-4328-9D82-087DD65921C6}",
   "branchId": "{00000000-0000-0000-0000-000000000000}",
-  "parentId": "{F9FAA13E-47BE-4F41-85E3-F7242677792C}",
-  "childIds": [
-    "{5BCDB282-B1E7-4A30-B678-508F3743B720}"
-  ]
+  "parentId": "{00000000-0000-0000-0000-000000000000}",
+  "childIds": []
 }
