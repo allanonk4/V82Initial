@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{336A6D2D-690B-4BF7-A747-7B5449DEBB1A}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2017-08-07T19:59:32.5954103Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ReplaceValue",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Release/Deployment/Build Deployment/PageSettings/Data/DeploymentItemsDataSource/Formatting/ReplaceValue",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
