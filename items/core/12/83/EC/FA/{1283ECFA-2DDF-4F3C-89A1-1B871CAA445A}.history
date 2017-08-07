@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{1283ECFA-2DDF-4F3C-89A1-1B871CAA445A}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2017-08-07T19:59:51.2949333Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Label Item",
+    "itemPath": "/sitecore/content/Applications/Content Editor/Menues/Vault/Label Item",
+    "template": "Menu item",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
