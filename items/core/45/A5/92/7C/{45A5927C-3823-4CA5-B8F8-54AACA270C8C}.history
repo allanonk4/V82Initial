@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{45A5927C-3823-4CA5-B8F8-54AACA270C8C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.4675487Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TimeCreated",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Lists/SnapshotItems/TimeCreated",
+    "template": "ColumnField",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

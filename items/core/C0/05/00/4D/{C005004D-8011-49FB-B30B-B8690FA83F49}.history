@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C005004D-8011-49FB-B30B-B8690FA83F49}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.4680498Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Snapshot Accordian",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Snapshot Accordian",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

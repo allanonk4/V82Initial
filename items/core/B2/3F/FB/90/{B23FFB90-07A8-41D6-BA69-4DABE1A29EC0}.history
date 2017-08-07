@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B23FFB90-07A8-41D6-BA69-4DABE1A29EC0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.4690523Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault StyleSheet",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Vault StyleSheet",
+    "template": "Page-Stylesheet-File",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
