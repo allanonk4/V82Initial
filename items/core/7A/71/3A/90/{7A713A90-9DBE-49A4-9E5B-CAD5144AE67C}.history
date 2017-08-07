@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{7A713A90-9DBE-49A4-9E5B-CAD5144AE67C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2920493Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultHealthStatus",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultHealthStatus",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

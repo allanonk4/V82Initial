@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{BDF6D821-C4B4-4B4C-9E87-DF02F5BF2D2C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2799894Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ShowDiff",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/ItemVersionsDS/ItemVersionsDS-Parameters/Data/ShowDiff",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

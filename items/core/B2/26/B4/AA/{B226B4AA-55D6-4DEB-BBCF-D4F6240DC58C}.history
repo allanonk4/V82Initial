@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{B226B4AA-55D6-4DEB-BBCF-D4F6240DC58C}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2789862Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/ItemVersionsDS/ItemVersionsDS-Parameters/Data",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

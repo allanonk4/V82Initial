@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1E3A4068-9BB6-42DD-B0D3-0A0082BCBBDD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2905458Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultDashboardSummary4Block",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDashboardSummary4Block",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

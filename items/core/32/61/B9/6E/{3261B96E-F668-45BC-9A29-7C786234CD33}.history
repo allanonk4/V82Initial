@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{3261B96E-F668-45BC-9A29-7C786234CD33}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2819947Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Type",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/LabelInformationDS/LabelInformationDS-Parameters/Data/Type",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

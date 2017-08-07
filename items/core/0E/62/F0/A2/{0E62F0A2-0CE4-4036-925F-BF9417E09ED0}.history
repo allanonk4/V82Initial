@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0E62F0A2-0CE4-4036-925F-BF9417E09ED0}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2860069Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SystemList",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/EcoSystem/SystemList",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

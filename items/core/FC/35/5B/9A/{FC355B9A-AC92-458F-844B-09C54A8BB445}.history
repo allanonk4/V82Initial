@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{FC355B9A-AC92-458F-844B-09C54A8BB445}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2840333Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Messaging",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

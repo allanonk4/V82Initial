@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{78663005-A546-471E-80EA-E514A0DCB922}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2855059Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "UpdatedMessages",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Messaging/XSpeak/XSpeak-Parameters/Control Messaging/UpdatedMessages",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E0876AEA-1F02-4658-9CC4-A9A4A2E36F2A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2829972Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "TargetSystemsDS",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/TargetSystemsDS",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C4026E17-C6F8-463B-82A3-7BD798580501}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2905458Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultDeploymentItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultDeploymentItems",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

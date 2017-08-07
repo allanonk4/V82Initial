@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F6D222E9-08AD-40C0-A186-CE960CE613B5}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2895430Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Item",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActivity/Activity-Parameters/Data/Item",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

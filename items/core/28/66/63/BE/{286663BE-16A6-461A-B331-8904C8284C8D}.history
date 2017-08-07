@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{286663BE-16A6-461A-B331-8904C8284C8D}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2870101Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultActiveAuthors",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultActiveAuthors",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
