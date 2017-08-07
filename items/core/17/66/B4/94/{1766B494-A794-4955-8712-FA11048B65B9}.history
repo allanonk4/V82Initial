@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1766B494-A794-4955-8712-FA11048B65B9}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.5633349Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Reporting",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Reporting",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
