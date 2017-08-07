@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{F0B76728-F1AE-4456-80D3-F83E7E9E8DAB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3452274Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Status",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Navigation/Reporting/Status",
+    "template": "HyperlinkButton Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

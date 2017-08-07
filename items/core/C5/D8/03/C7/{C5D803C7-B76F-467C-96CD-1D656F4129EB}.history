@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{C5D803C7-B76F-467C-96CD-1D656F4129EB}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3341677Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Dialogs",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Dialogs",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
