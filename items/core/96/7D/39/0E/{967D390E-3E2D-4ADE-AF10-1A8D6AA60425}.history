@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{967D390E-3E2D-4ADE-AF10-1A8D6AA60425}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3011109Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VaultQuickLinks",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

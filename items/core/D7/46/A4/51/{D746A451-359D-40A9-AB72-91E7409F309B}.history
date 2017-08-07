@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{D746A451-359D-40A9-AB72-91E7409F309B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3081294Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Checked",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultSelectableVerificationList/SelectableVerificationList-Parameters/Data/Checked",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

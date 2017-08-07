@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{EDCD3272-EC55-43FF-839B-94A036F5A799}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3091326Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "VerificationCheckList-Parameters",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultVerificationCheckList/VerificationCheckList-Parameters",
+    "template": "Template",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{4827E562-2533-470E-8879-614ED6CF98DD}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3011109Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "HasItems",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultQuickLinks/QuickLinks-Parameters/Data/HasItems",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

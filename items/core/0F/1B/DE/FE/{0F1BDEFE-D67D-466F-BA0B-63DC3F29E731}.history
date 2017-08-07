@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{0F1BDEFE-D67D-466F-BA0B-63DC3F29E731}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3141461Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "SitecoreExtended",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/SitecoreExtended",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

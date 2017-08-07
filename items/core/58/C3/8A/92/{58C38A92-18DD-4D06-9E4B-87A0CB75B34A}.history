@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{58C38A92-18DD-4D06-9E4B-87A0CB75B34A}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3121434Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "__Standard Values",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultVerificationList/VerificationList-Parameters/__Standard Values",
+    "template": "VerificationList-Parameters",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

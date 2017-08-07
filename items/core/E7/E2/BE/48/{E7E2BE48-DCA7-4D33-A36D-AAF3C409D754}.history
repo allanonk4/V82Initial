@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{E7E2BE48-DCA7-4D33-A36D-AAF3C409D754}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3101351Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "ItemsOut",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultVerificationCheckList/VerificationCheckList-Parameters/Data/ItemsOut",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

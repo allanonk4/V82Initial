@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{730D05E8-6C18-46C0-AF15-1A7C45A25176}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3101351Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Messaging",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultVerificationCheckList/VerificationCheckList-Parameters/Messaging",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

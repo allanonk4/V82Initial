@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{2704427E-CEAF-47BF-BE1F-EE806AC9B3CC}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.3000767Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "styleOverride",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/Renderings/VaultProductName/ProductName-Parameters/Data/styleOverride",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
