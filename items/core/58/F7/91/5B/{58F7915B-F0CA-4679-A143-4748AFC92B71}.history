@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{58F7915B-F0CA-4679-A143-4748AFC92B71}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2559243Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "DeletedItemsDS",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common/DataSource/DeletedItemsDS",
+    "template": "View rendering",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]

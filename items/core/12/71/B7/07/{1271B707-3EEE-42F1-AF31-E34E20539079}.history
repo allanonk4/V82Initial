@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{1271B707-3EEE-42F1-AF31-E34E20539079}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.2549218Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Common",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Common",
+    "template": "Folder",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
