@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "PackageInstall",
+    "database": "core",
+    "itemId": "{9F4C7211-2655-495D-84C1-5577D7E15BC3}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T19:59:59.6289776Z",
+    "label": "Installed from package",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Vault Home",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Home",
+    "template": "Speak-StartPage",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
