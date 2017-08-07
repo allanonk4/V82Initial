@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "VersionRemoved",
+    "database": "core",
+    "itemId": "{696EE77D-C28A-4E4F-B89C-7118B5B5131B}",
+    "version": 1,
+    "language": "de-DE",
+    "timestamp": "2017-08-07T19:59:26.3573908Z",
+    "label": "Version 1 Removed",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "Data",
+    "itemPath": "/sitecore/client/Your Apps/Vault/Vault Dashboard/Data Recovery/Snapshots/PageSettings/Data/SnapshotsDataSource/SnapshotsDataSource Parameters/Data",
+    "template": "Template section",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
