@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "web",
+    "itemId": "{4F0DB334-A20C-4A49-B46B-4EE5BBC0A24B}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-04T23:03:17.0889527Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "test",
+    "itemPath": "/sitecore/templates/Sample/Sample Item/Data/test",
+    "template": "Template field",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
