@@ -1,0 +1,21 @@
+[
+  {
+    "eventType": "Created",
+    "database": "core",
+    "itemId": "{FCEE62C2-F83B-488F-9950-A869AAF58AF7}",
+    "version": 1,
+    "language": "en",
+    "timestamp": "2017-08-07T20:05:29.5929217Z",
+    "label": "Created",
+    "workflowState": "",
+    "workflowStateName": "",
+    "activeUser": "sitecore\\admin",
+    "itemName": "20170807T200529Z",
+    "itemPath": "/sitecore/system/Packages/Installation history/Vault for Sitecore/20170807T200529Z",
+    "template": "Package registration",
+    "sourceControlRevisionId": null,
+    "sitecoreVersion": "8.2.160729",
+    "vaultVersion": "1.2.1",
+    "deploymentId": null
+  }
+]
