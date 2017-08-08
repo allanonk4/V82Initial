@@ -10,10 +10,38 @@ template: {22A11D20-5F1D-4216-BF3F-18C016F1F98E}
 templatekey: Package registration
 created: 20170807T200529:636377331295600000
 
+----field----
+field: {D79648F3-1351-4A3C-822E-86809DB16479}
+name: Package name
+key: package name
+content-length: 18
+
+Vault for Sitecore
+----field----
+field: {5322A457-A605-4A38-A0D1-F944B7F781D9}
+name: Package version
+key: package version
+content-length: 5
+
+1.2.1
+----field----
+field: {5E6442EC-78CE-4D20-8673-3670222E404D}
+name: Package author
+key: package author
+content-length: 8
+
+Meng Hak
+----field----
+field: {8403A346-67C5-4616-B239-18BF4675852D}
+name: Package publisher
+key: package publisher
+content-length: 8
+
+XCentium
 ----version----
 language: en
 version: 1
-revision: 1d24b0ab-4384-4441-bd9e-e427a2fa698c
+revision: 849e4d61-d86e-42ee-85c7-90cf65893972
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -42,7 +70,7 @@ name: __Revision
 key: __revision
 content-length: 36
 
-1d24b0ab-4384-4441-bd9e-e427a2fa698c
+849e4d61-d86e-42ee-85c7-90cf65893972
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
